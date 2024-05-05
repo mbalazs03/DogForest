@@ -34,6 +34,8 @@ The `GameManager` script controls various aspects of the Dog Forest game, includ
 
 ```csharp
 using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
